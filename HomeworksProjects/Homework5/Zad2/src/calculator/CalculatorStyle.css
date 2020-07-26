@@ -1,0 +1,17 @@
+.grid {
+    -fx-background-color: rgb(243, 241, 242);
+    -fx-padding: 8;
+    -fx-hgap: 8;
+    -fx-vgap: 8;
+}
+#text-field {
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+}
+#button {
+    -fx-text-fill: #373737;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-border-radius: 16;
+}

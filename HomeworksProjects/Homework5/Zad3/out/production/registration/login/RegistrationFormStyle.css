@@ -1,0 +1,33 @@
+.grid {
+    -fx-background-color: #cacff4;
+    -fx-padding: 8;
+    -fx-hgap: 8;
+    -fx-vgap: 8;
+}
+#label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-padding: 0 0 0 40;
+    -fx-text-fill: #15009e;
+}
+#label-warning {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #708ab8;
+}
+#text-field {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #0e007a;
+}
+#password-field {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #0e007a;
+}
+#button {
+    -fx-text-fill: #15009e;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-border-radius: 16;
+}

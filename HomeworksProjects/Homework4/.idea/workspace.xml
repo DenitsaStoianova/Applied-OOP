@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a59c87d-a682-4802-a019-af2f01c3b3de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aE9bFKb3EEIXV1IowgSufKZzJ0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Homework2" />
+  </component>
+  <component name="RunManager" selected="Application.SquareMatrixTest">
+    <configuration name="HammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.HammingDistance" />
+      <module name="Homework4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareMatrixTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad2.SquareMatrixTest" />
+      <module name="Homework4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SquareMatrixTest" />
+        <item itemvalue="Application.HammingDistance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a59c87d-a682-4802-a019-af2f01c3b3de" name="Default Changelist" comment="" />
+      <created>1586289957274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586289957274</updated>
+      <workItem from="1586289995155" duration="1638000" />
+      <workItem from="1586415930789" duration="35000" />
+      <workItem from="1586535347803" duration="7338000" />
+      <workItem from="1586588034309" duration="115000" />
+      <workItem from="1586597469477" duration="2721000" />
+      <workItem from="1586608104965" duration="31000" />
+      <workItem from="1586608316053" duration="1387000" />
+      <workItem from="1586715548648" duration="765000" />
+      <workItem from="1587026185414" duration="277000" />
+      <workItem from="1587038501268" duration="302000" />
+      <workItem from="1587136995220" duration="9032000" />
+      <workItem from="1587219279402" duration="7186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1587220701192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587220701192" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1587232268649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587232268649" />
+    <state width="1323" height="81" key="GridCell.Tab.0.bottom" timestamp="1587232270524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="81" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587232270524" />
+    <state width="1323" height="81" key="GridCell.Tab.0.center" timestamp="1587232270524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="81" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587232270524" />
+    <state width="1323" height="81" key="GridCell.Tab.0.left" timestamp="1587232270524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="81" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587232270524" />
+    <state width="1323" height="81" key="GridCell.Tab.0.right" timestamp="1587232270524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="81" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587232270524" />
+    <state x="347" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1587219288407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="347" y="282" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587219288407" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587026477351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587026477351" />
+  </component>
+</project>

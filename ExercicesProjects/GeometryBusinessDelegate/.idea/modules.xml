@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GeometryBusinessDelegate.iml" filepath="$PROJECT_DIR$/GeometryBusinessDelegate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.client/com.client.iml" filepath="$PROJECT_DIR$/com.client/com.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.delegate/com.delegate.iml" filepath="$PROJECT_DIR$/com.delegate/com.delegate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.geometry.types/com.geometry.types.iml" filepath="$PROJECT_DIR$/com.geometry.types/com.geometry.types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.geometry.utils/com.geometry.utils.iml" filepath="$PROJECT_DIR$/com.geometry.utils/com.geometry.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.implementator/com.implementator.iml" filepath="$PROJECT_DIR$/com.implementator/com.implementator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.services/com.services.iml" filepath="$PROJECT_DIR$/com.services/com.services.iml" />
+    </modules>
+  </component>
+</project>

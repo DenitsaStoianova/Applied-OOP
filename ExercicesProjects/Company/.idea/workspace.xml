@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="180d5a06-9697-4d28-bfad-72df069df71c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eGcZhyuCVpBN2UmcatoNN9j8lJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CompanyJavaFX" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppointTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employees.AppointTest" />
+      <module name="Company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppointTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="180d5a06-9697-4d28-bfad-72df069df71c" name="Default Changelist" comment="" />
+      <created>1593951427813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593951427813</updated>
+      <workItem from="1593951441279" duration="1929000" />
+      <workItem from="1593954046272" duration="7364000" />
+      <workItem from="1594044896622" duration="1852000" />
+      <workItem from="1594122517955" duration="1452000" />
+      <workItem from="1594151305456" duration="1007000" />
+      <workItem from="1594188393895" duration="1056000" />
+      <workItem from="1594192022511" duration="617000" />
+      <workItem from="1595766636600" duration="148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1594046001278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594046001278" />
+    <state x="301" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593959670197">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="301" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1593959670197" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1595766791348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595766791348" />
+    <state width="1323" height="88" key="GridCell.Tab.0.bottom" timestamp="1594189489607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="88" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594189489607" />
+    <state width="1323" height="88" key="GridCell.Tab.0.center" timestamp="1594189489607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="88" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594189489607" />
+    <state width="1323" height="88" key="GridCell.Tab.0.left" timestamp="1594189489607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="88" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594189489607" />
+    <state width="1323" height="88" key="GridCell.Tab.0.right" timestamp="1594189489607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="88" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594189489607" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1594188740326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594188740326" />
+  </component>
+</project>

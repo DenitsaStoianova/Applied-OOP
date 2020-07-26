@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="com:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8aea899d-7f17-4bda-88ed-cbe8d5a228bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="module-info" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cDHCu5SyoGXt1FeMxV39VFYdoX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DrawingCircles" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FunctionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.FunctionsTest" />
+      <module name="gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FunctionsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aea899d-7f17-4bda-88ed-cbe8d5a228bf" name="Default Changelist" comment="" />
+      <created>1590056128665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590056128665</updated>
+      <workItem from="1590056156870" duration="2925000" />
+      <workItem from="1590146943928" duration="157000" />
+      <workItem from="1590150993291" duration="1463000" />
+      <workItem from="1595766853883" duration="157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1590058311903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590058311903" />
+    <state x="413" y="122" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1590058248886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="122" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590058248886" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1595767011033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595767011033" />
+    <state width="1323" height="38" key="GridCell.Tab.0.bottom" timestamp="1595767012438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="38" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595767012438" />
+    <state width="1323" height="38" key="GridCell.Tab.0.center" timestamp="1595767012438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="38" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595767012438" />
+    <state width="1323" height="38" key="GridCell.Tab.0.left" timestamp="1595767012438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="38" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595767012438" />
+    <state width="1323" height="38" key="GridCell.Tab.0.right" timestamp="1595767012438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="38" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595767012438" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1590058250241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590058250241" />
+    <state x="65" y="0" key="new project wizard" timestamp="1590152488386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590152488386" />
+  </component>
+</project>

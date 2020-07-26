@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee8c8227-8315-4d8c-81e3-b7130a8b3101" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d56IfPzfYCwcZDFNN3TfTxkpKV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab14Tasks" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\Homework7\src\zad4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChooseEggSimulator">
+    <configuration name="ChooseEgg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.ChooseEgg" />
+      <module name="Homework7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChooseEggSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.ChooseEggSimulator" />
+      <module name="Homework7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChooseEggTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.ChooseEggTreeSet" />
+      <module name="Homework7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamLab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad4.StreamLab" />
+      <module name="Homework7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamOfIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad3.StreamOfIntegers" />
+      <module name="Homework7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChooseEggSimulator" />
+        <item itemvalue="Application.StreamLab" />
+        <item itemvalue="Application.StreamOfIntegers" />
+        <item itemvalue="Application.ChooseEggTreeSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee8c8227-8315-4d8c-81e3-b7130a8b3101" name="Default Changelist" comment="" />
+      <created>1591702529998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591702529998</updated>
+      <workItem from="1591702552997" duration="15203000" />
+      <workItem from="1591870518515" duration="42000" />
+      <workItem from="1591879229105" duration="6885000" />
+      <workItem from="1591946657414" duration="7743000" />
+      <workItem from="1591956275153" duration="2328000" />
+      <workItem from="1591960121404" duration="2280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1591716441341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591716441341" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1591963372529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591963372529" />
+    <state width="1323" height="28" key="GridCell.Tab.0.bottom" timestamp="1591963373795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="28" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591963373795" />
+    <state width="1323" height="28" key="GridCell.Tab.0.center" timestamp="1591963373794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="28" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591963373794" />
+    <state width="1323" height="28" key="GridCell.Tab.0.left" timestamp="1591963373794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="28" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591963373794" />
+    <state width="1323" height="28" key="GridCell.Tab.0.right" timestamp="1591963373795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="28" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591963373795" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1591946655476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591946655476" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+module validation {
+
+    exports validator;
+}

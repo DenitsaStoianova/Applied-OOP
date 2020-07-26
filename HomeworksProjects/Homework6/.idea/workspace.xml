@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1619dfaa-03b2-4705-914c-2f7f851d6332" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="module-info" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c5Sl1XjHe7eNkRkC2SuejaIgtg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../07/Lab7/Zad1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CipherGeneratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.CipherGeneratorTest" />
+      <module name="com.gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CipherGeneratorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1619dfaa-03b2-4705-914c-2f7f851d6332" name="Default Changelist" comment="" />
+      <created>1589817112255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589817112255</updated>
+      <workItem from="1589817137327" duration="13393000" />
+      <workItem from="1589868697616" duration="5261000" />
+      <workItem from="1589965810571" duration="2160000" />
+      <workItem from="1589977044991" duration="1766000" />
+      <workItem from="1589981517648" duration="25000" />
+      <workItem from="1589981646674" duration="3962000" />
+      <workItem from="1589991810487" duration="982000" />
+      <workItem from="1589995694662" duration="1098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1589825821330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589825821330" />
+    <state x="413" y="122" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1589821070347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="122" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589821070347" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1590000276120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590000276120" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1590000277619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590000277619" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1590000277604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590000277604" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1590000277604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590000277604" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1590000277604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590000277604" />
+    <state width="1323" height="58" key="GridCell.Tab.1.bottom" timestamp="1589836409557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="58" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589836409557" />
+    <state width="1323" height="58" key="GridCell.Tab.1.center" timestamp="1589836409557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="58" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589836409557" />
+    <state width="1323" height="58" key="GridCell.Tab.1.left" timestamp="1589836409557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="58" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589836409557" />
+    <state width="1323" height="58" key="GridCell.Tab.1.right" timestamp="1589836409557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="58" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589836409557" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1589821071996">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589821071996" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589868721860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589868721860" />
+    <state x="78" y="0" key="new project wizard" timestamp="1589986249676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="78" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589986249676" />
+  </component>
+</project>
