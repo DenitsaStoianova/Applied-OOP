@@ -7,19 +7,28 @@ related to Java Programming language like:***
 - Loops and conditions
 
 
-- Introduction:
-2.2 First Program in Java: Printing a Line of Text
-2.3 Modifying Our First Java Program
-2.4 Displaying Text with printf
-2.5 Another Java Application: Adding Integers
-2.6 Memory Concepts
-2.7 Arithmetic
-2.8 Decision Making: Equality and Relational Operators
-
+- Introduction to software development with Java:
+```
+- First Program in Java: Printing a Line of Text
+- Modifying Our First Java Program
+- Displaying Text with printf
+- Another Java Application: Adding Integers
+- Memory Concepts
+- Arithmetic
+- Decision Making: Equality and Relational Operators
+```
+- Classes and Objects
+```
+2.2 Object classes, objects, methods and variables (class instance)
+2.3 Declaring a method class and creating a object of class
+2.4 Declaring a single argument method
+2.5 Object variables, set methods and get methods
+2.6 Primitive data and reference data types
+2.7 Initializing objects with a constructor
+2.8 Floating point numbers and type double
+2.9 Software Engineering: Identification of classes when researched on the requirements of the problem
+```
 - Control statements:
-Classes
-Getters and setters
-OOP principles
 Algorithms
 2b.3 Pseudocode
 2b.4 Control Structures
