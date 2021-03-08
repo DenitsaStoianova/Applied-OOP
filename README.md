@@ -2,11 +2,6 @@
 ***This repository contains exercises from Applied OOP course which covers concepts 
 related to Java Programming language like:***
 
-- Intro to Java
-- Getters and setters
-- Loops and conditions
-
-
 - Introduction to software development with Java:
 ```
 - First Program in Java: Printing a Line of Text
@@ -29,6 +24,7 @@ related to Java Programming language like:***
 2.9 Software Engineering: Identification of classes when researched on the requirements of the problem
 ```
 - Control statements:
+```
 Algorithms
 2b.3 Pseudocode
 2b.4 Control Structures
@@ -55,8 +51,9 @@ with JavaFX
 with JavaFX
 2c.11 GUI and Graphics Case Study: Drawing Rectangles
 and Ovals with JavaFX
-
+```
 - Math functions, Localdate, Random
+```
 3a.2 Program Modules in Java
 3a.3 static Methods, static Fields
 3a.4 Wrapper classes
@@ -75,10 +72,29 @@ Enumerations)
 3a.11 Scope of Declarations
 3a.12 Method Overloading
 3a.13 JavaFX Graphics Case Study: Colors and Filled Shapes
-
+```
 - Working with SceneBuilder
+```
+4.2 Graphic components
+4.3 Naming components of the graphical interface
+4.4 Creating an interactive graphical interface
+4.5 Creating a JavaFX interactive graphical interface
+4.1 Structure of the JavaFX window
+4.2 Installing SceneBuilder
+4.3 Creating a JavaFX application
+4.4 Description of the node tree
+4.5 Building the graphical interface
+4.6 Introduction to event handling
+4.9 Arranging the components
+4.10 Node structure
+4.6 BigDecimal application for working with money
+4.7 Creating menus in SceneBuilder
+4.8 Creating reusable FXML graphics
+components
+```
 
 - Arrays, ArrayList, Matrices
+```
 5.2 Arrays
 5.3 Declaring and Creating Arrays
 5.4 Examples Using Arrays
@@ -94,10 +110,21 @@ Enumerations)
 5.14 GUI and Graphics Case Study: Drawing Arcs
 5.15 Algorithms for searching
 5.16 Algorithms for sorting
-
+```
 - Recursion, Searching, Sorting
+```
+6.2 Presentation of recursion
+6.3 Examples: Factoriels and Fibonacci order
+6.4 Recursion and executable stack
+6.5 Recursive and iterative implementation of a method
+6.6 Examples of recursion applications.
+- Array sorting with recursive algorithms
+- Merge sort
+- Quick sort
+```
 
 - Composition, Delegation
+```
 7.2 Time Class Case Study
 7.3 Controlling Access to Members
 7.4 Referring to the Current Object’s
@@ -110,7 +137,6 @@ Constructors
 7.8 Composition. Single Responsibility Principle
 7.9 Garbage Collection and Method
 finalize
-4
 7.10 static Class Members
 7.11 static Import
 7.12 final Instance Variables
@@ -122,8 +148,9 @@ user defined Packages
 7.17 GUI with JavaFX
 Study: Using Objects with Graphics
 7.18 Building classes with delegation
-
+```
 - Strings, Characters and Regular Expressions
+```
 8.2 Fundamentals of Characters and Strings
 8.3 Class String
 8.3.1 String Constructors
@@ -143,8 +170,9 @@ Study: Using Objects with Graphics
 8.5 Class Character
 8.6 Class StringTokenizer
 8.7 Regular Expressions, Class Pattern and Class Matcher
-
+```
 - Modular Programming in Java
+```
  The benefits of modular programming.
  Declaration of a Java Module.
  Module descriptor.
@@ -153,8 +181,9 @@ Study: Using Objects with Graphics
  The unnamed module.
  Create and run unnamed module.
  Add a Modular JAR and use it with IntelliJ
-
+```
 - Object-Oriented Programming: Inheritance
+```
 9.2 Superclasses and Subclasses
 9.3 protected Members
 9.4 Relationship between Superclasses and Subclasses
@@ -169,18 +198,17 @@ Using protected Instance Variables
 9.4.5 CommissionEmployee–
 BasePlusCommissionEmployee Inheritance Hierarchy
 Using private Instance Variables 
-Dr. E. Krustev, 2020
-4
 9.5 Constructors in Subclasses
 9.6 Software Engineering with Inheritance
 9.7 Object Class
 9.8 Inheritance in JavaFX
 9.9 GUI and Graphics Case Study: Displaying Text and
 Images Using Labels and Text 
-
+```
 - Create reusable JavaFX components with graphical visual editor
 
 - Object-Oriented Programming: Polymorphism
+```
 10.2 Polymorphism Examples
 10.3 Demonstrating Polymorphic Behavior
 10.4 Abstract Classes and Methods
@@ -200,8 +228,6 @@ Operator instanceof and Downcasting
 Between Superclass and Subclass Variables
 10.6 final Methods and Classes
 10.7 Enum type. Properties and methods.
-Е. Кръстев, ПООП част 1, ФМИ, СУ ”Климент Охридски” 2020
-4
 10.8 Case Study: Creating and Using Interfaces
 10.8.1 Developing a Payable Hierarchy
 10.8.2 Declaring Interface Payable
@@ -222,8 +248,9 @@ Inheritance into the ATM System
 10.12 Bad Use of Override Methods
 10.12.1 Contraction
 10.12.2 Principle of Liskov
-
+```
 - Inner and anonymous classes
+```
 11.2 External class and methods for communication with internal classes
 11.3 Internal classes hide implementation
 11.3.1 Internal classes in methods
@@ -238,15 +265,17 @@ Inheritance into the ATM System
 11.11 Event Handling in JavaFX
 11.12 Common event types and their corresponding interfaces
 11.13 JavaFX Event Handling Model
-
+```
 - Exceptions
+```
 - ▪ Exception handling.
 ▪ The Exception class.
 ▪ Try block and its application.
 ▪ Exception interception and transmission.
 ▪ User - defined exceptions with use of heredity.
-
+```
 - Generic data types (parametric polymorphism)
+```
 ▪ Create parameters for the type of methods to perform
 identical actions with arguments of different types.
 ▪ Creating parameters for a class type.
@@ -258,8 +287,9 @@ method argument information in the method body.
 heredity
 ▪ The principle of GET (Consumer) -PUT (Producer) -> super-extends
 ▪ Invariance, covariance and contravariance
-
+```
 - Java collections
+```
 13a.3 class Arrays
 13a.4 interface Collection and class Collections
 13a.5 Lists - class List
@@ -277,15 +307,17 @@ heredity
 13a.8 PriorityQueue class and Queue interface
 13a.9 Types of applications on the Set interface
 13a.10 Types of Map interface applications
-
+```
 - Lambda Expressions
+```
 14a.2 Lambda Expressions
 14a.3 Functional interfaces
 14a.4 Method references
 14a.5 default Interface Methods
 14a.6 static Interface Methods
-
+```
 - Stream API
+```
 1.1 Introduction to the Stream API
 1.2 Basic concepts
 1.3 Types of streams
@@ -293,8 +325,9 @@ heredity
 1.5 Types of operations in IntStream
 1.6 Order of execution of operations
 1.7 Reusing Stream
-
+```
 - JavaFX properties, Binding, Event handling
+```
 15a.2 Introduction to JavaFX properties
 15a.2a Creating JavaFX properties
 15a.2b Binding JavaFX properties
@@ -312,8 +345,9 @@ heredity
 15a.9 Event handling
 15a.10 Chain distribution of event processing
 15a.11 KeyEvent Processing Methods
-
+```
 - Observable pattern in JavaFX Applications
+```
 16.1 Motivation example
 16.2 Design patterns
 16.3 JavaFX Observable
@@ -322,14 +356,5 @@ heredity
 16.6 ShoppingCart sample
 16.7 TableView control
 16.8 Use TableView with a database
+```
 
-- Working with JavaFX
-- SceneBuilder
-- Create modules, JARs
-- Best OOP practices
-- Java Collections
-- Generics
-- Lambda expressions
-- Stream API
-- Bindings
-- ComboBox and ObservableList
